@@ -1,6 +1,7 @@
 {
   "name": "vitest-playground",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "node": "22.11.0",
     "npm": "10.9.0"
